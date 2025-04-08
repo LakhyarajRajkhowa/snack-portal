@@ -1,5 +1,5 @@
 import React from 'react';
-//import { FaHome, FaUserCircle } from 'react-icons/fa';
+import { FaHome, FaUserCircle } from 'react-icons/fa';
 import './Home.css';
 
 const Home = () => {
