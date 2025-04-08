@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaHome, FaUserCircle } from 'react-icons/fa';
+//import { FaHome, FaUserCircle } from 'react-icons/fa';
 import './Home.css';
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
       {/* Navbar */}
       <nav className="navbar">
         <div className="nav-left">
-          <FaHome className="icon" />
+         
           <span>Home</span>
         </div>
         <div className="nav-center">
